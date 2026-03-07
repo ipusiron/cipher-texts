@@ -1,8 +1,8 @@
-# 『Claude Code暗号解読決戦 ミジンコ vs. Agent Teams』
+# 『Claude Code暗号解読決戦 ミジンコ vs. AIエージェント』
 
 ## 概要
 
-本フォルダーは、同人誌『Claude Code暗号解読決戦　ミジンコ vs. Agent Teams』
+本フォルダーは、同人誌『Claude Code暗号解読決戦　ミジンコ vs. AIエージェント』
 （著：IPUSIRON、「技術書典20」初頒布）で使用したチャレンジ暗号文および平文を収録しています。
 
 ## ファイル構成
