@@ -33,11 +33,12 @@
 ## 暗号の仕様
 
 - 暗号化方式：ヴィジュネル暗号（A=0）
-- 鍵："EAGLE"
+- 鍵文字列："LIBERTYEAGLEJUSTICE"（3単語から構成）
+- 鍵文字列長（鍵長）：19文字
 
 ## 関連リンク
 
-- 書籍購入：https://hack.booth.pm
+- 書籍購入：https://hack.booth.pm/items/8015186
 - 著者ブログ：https://akademeia.info
 - 著者X：https://x.com/ipusiron
 
